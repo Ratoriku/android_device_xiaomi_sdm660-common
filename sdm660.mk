@@ -323,7 +323,8 @@ PRODUCT_PACKAGES += \
 
 # Power
 PRODUCT_PACKAGES += \
-    android.hardware.power-service.xiaomi_sdm660-libperfmgr
+    android.hardware.power-service.xiaomi_sdm660-libperfmgr \
+    libqti-perfd-client
 
 # Protobuf
 PRODUCT_PACKAGES += \
